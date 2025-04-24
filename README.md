@@ -46,11 +46,8 @@ Gerekli Python kütüphanelerini yüklemek için şu komutu çalıştırın:
 pip install timm scikit-learn matplotlib
 ````
 
-### 2. Modeli Eğitmek İçin `skin_cancer.ipynb` Dosyasını Çalıştırın
+### 2. Modeli Eğitmeye Başlayın 
 
-Eğitim sürecini başlatmak için aşağıdaki komutu kullanarak `skin_cancer.ipynb` dosyasını çalıştırın:
-
-```bash
-python skin_cancer.ipynb
+Eğitim sürecini başlatmak için **skin_cancer.ipynb** dosyasındaki hücreleri sırayla çalıştırın.
 
 
